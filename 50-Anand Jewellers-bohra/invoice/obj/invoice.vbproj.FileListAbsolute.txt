@@ -1,0 +1,449 @@
+C:\passion\Invoice\RAJATHADRI\invoice\bin\Release\invoice.exe.manifest
+C:\passion\Invoice\RAJATHADRI\invoice\bin\Release\invoice.application
+C:\passion\Invoice\RAJATHADRI\invoice\bin\Release\invoice.exe
+C:\passion\Invoice\RAJATHADRI\invoice\bin\Release\invoice.pdb
+C:\passion\Invoice\RAJATHADRI\invoice\bin\Release\invoice.xml
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\ResolveAssemblyReference.cache
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.crtinsurance.rpt
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.CrtinvoicedeliveryA4_Dup.rpt
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.Copy of CrtinvoicedeliveryA4_Dup.rpt
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.CrtinvoiceA4_dup.rpt
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.Copy of CrtinvoiceA4_dup.rpt
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.crtmetalstock.rpt
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.crtmetalstockprint.rpt
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.CrtpaymentvocucherPrint.rpt
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.crtpurchase.rpt
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.crtsalesreturnprint.rpt
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.duprajRptOrdernew.rpt
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.CrtinvoicedeliveryA4.rpt
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.CrtinvoiceA4.rpt
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.invoice_landscape_1.rpt
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.invoice_landscape_2.rpt
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.invoice_landscape_3.rpt
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.rCrtinvoicebarcode.rpt
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.Crtdeliverybill.rpt
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.Crtdupinvoicebarcode_order.rpt
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.Crtinvoicebarcode_order.rpt
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.Crtinvoice_2.rpt
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.Crtinvoice_1.rpt
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.CRTrepairINV.rpt
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.crtrepairPrint.rpt
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.crtreport.rpt
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.crtschemeadjustmentslip.rpt
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.CrtschemeAdjustment_Print.rpt
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.rajRptOrdernew.rpt
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.rajRptOrdernewP.rpt
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.Crtinvoicebarcode_image.rpt
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.RCrtinvoicePrint.rpt
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.rdupCrtinvoicebarcode.rpt
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.RPtpurchase.rpt
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.Rptrepairwithoutbill.rpt
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.Rrptbranchorder.rpt
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.Rrptrectvoucher.rpt
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.Form1.resources
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.Resources.resources
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.exe.manifest
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.application
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.exe
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.xml
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.pdb
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.CRTapprovalPrint.rpt
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.rptrepJob.rpt
+C:\passion\Invoice\RAJATHADRI\invoice\obj\Release\invoice.CrtinvoicePrint_mrp.rpt
+C:\passion\Invoice\sbj\invoice\bin\Release\invoice.exe.manifest
+C:\passion\Invoice\sbj\invoice\bin\Release\invoice.application
+C:\passion\Invoice\sbj\invoice\bin\Release\invoice.exe
+C:\passion\Invoice\sbj\invoice\bin\Release\invoice.pdb
+C:\passion\Invoice\sbj\invoice\bin\Release\invoice.xml
+C:\passion\Invoice\sbj\invoice\obj\Release\ResolveAssemblyReference.cache
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.CRTapprovalPrint.rpt
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.crtinsurance.rpt
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.CrtinvoicedeliveryA4_Dup.rpt
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.Copy of CrtinvoicedeliveryA4_Dup.rpt
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.CrtinvoiceA4_dup.rpt
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.Copy of CrtinvoiceA4_dup.rpt
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.CrtinvoicePrint_mrp.rpt
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.crtmetalstock.rpt
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.crtmetalstockprint.rpt
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.CrtpaymentvocucherPrint.rpt
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.crtpurchase.rpt
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.crtsalesreturnprint.rpt
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.duprajRptOrdernew.rpt
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.CrtinvoicedeliveryA4.rpt
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.CrtinvoiceA4.rpt
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.invoice_landscape_1.rpt
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.invoice_landscape_2.rpt
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.invoice_landscape_3.rpt
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.rCrtinvoicebarcode.rpt
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.Crtdeliverybill.rpt
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.Crtdupinvoicebarcode_order.rpt
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.Crtinvoicebarcode_order.rpt
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.Crtinvoice_2.rpt
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.Crtinvoice_1.rpt
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.CRTrepairINV.rpt
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.crtrepairPrint.rpt
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.crtreport.rpt
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.crtschemeadjustmentslip.rpt
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.CrtschemeAdjustment_Print.rpt
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.rajRptOrdernew.rpt
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.rajRptOrdernewP.rpt
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.Crtinvoicebarcode_image.rpt
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.RCrtinvoicePrint.rpt
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.rdupCrtinvoicebarcode.rpt
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.RPtpurchase.rpt
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.Rptrepairwithoutbill.rpt
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.rptrepJob.rpt
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.Rrptbranchorder.rpt
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.Rrptrectvoucher.rpt
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.Form1.resources
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.Resources.resources
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.exe.manifest
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.application
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.exe
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.xml
+C:\passion\Invoice\sbj\invoice\obj\Release\invoice.pdb
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\bin\Release\invoice.exe.manifest
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\bin\Release\invoice.application
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\bin\Release\invoice.exe
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\bin\Release\invoice.pdb
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\bin\Release\invoice.xml
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\ResolveAssemblyReference.cache
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.CRTapprovalPrint.rpt
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.crtinsurance.rpt
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.CrtinvoicedeliveryA4_Dup.rpt
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.Copy of CrtinvoicedeliveryA4_Dup.rpt
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.CrtinvoiceA4_dup.rpt
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.Copy of CrtinvoiceA4_dup.rpt
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.CrtinvoicePrint_mrp.rpt
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.crtmetalstock.rpt
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.crtmetalstockprint.rpt
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.CrtpaymentvocucherPrint.rpt
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.crtpurchase.rpt
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.crtsalesreturnprint.rpt
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.duprajRptOrdernew.rpt
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.CrtinvoicedeliveryA4.rpt
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.CrtinvoiceA4.rpt
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice_landscape_1.rpt
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice_landscape_2.rpt
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice_landscape_3.rpt
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.rCrtinvoicebarcode.rpt
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.Crtdeliverybill.rpt
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.Crtdupinvoicebarcode_order.rpt
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.Crtinvoicebarcode_order.rpt
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.Crtinvoice_2.rpt
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.Crtinvoice_1.rpt
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.CRTrepairINV.rpt
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.crtrepairPrint.rpt
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.crtreport.rpt
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.crtschemeadjustmentslip.rpt
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.CrtschemeAdjustment_Print.rpt
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.rajRptOrdernew.rpt
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.rajRptOrdernewP.rpt
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.Crtinvoicebarcode_image.rpt
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.RCrtinvoicePrint.rpt
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.rdupCrtinvoicebarcode.rpt
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.RPtpurchase.rpt
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.Rptrepairwithoutbill.rpt
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.rptrepJob.rpt
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.Rrptbranchorder.rpt
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.Rrptrectvoucher.rpt
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.Form1.resources
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.Resources.resources
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.exe.manifest
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.application
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.exe
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.xml
+F:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.pdb
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.exe
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.xml
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.pdb
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\bin\Release\invoice.exe.manifest
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\bin\Release\invoice.application
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\bin\Release\invoice.exe
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\bin\Release\invoice.pdb
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\bin\Release\invoice.xml
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\ResolveAssemblyReference.cache
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.CRTapprovalPrint.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.crtinsurance.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.CrtinvoicedeliveryA4_Dup.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.Copy of CrtinvoicedeliveryA4_Dup.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.CrtinvoiceA4_dup.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.Copy of CrtinvoiceA4_dup.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.CrtinvoicePrint_mrp.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.crtmetalstock.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.crtmetalstockprint.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.CrtpaymentvocucherPrint.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.crtpurchase.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.crtsalesreturnprint.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.duprajRptOrdernew.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.CrtinvoicedeliveryA4.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.CrtinvoiceA4.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice_landscape_1.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice_landscape_2.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice_landscape_3.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.rCrtinvoicebarcode.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.Crtdeliverybill.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.Crtdupinvoicebarcode_order.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.Crtinvoicebarcode_order.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.Crtinvoice_2.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.Crtinvoice_1.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.CRTrepairINV.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.crtrepairPrint.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.crtreport.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.crtschemeadjustmentslip.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.CrtschemeAdjustment_Print.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.rajRptOrdernew.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.rajRptOrdernewP.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.Crtinvoicebarcode_image.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.RCrtinvoicePrint.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.rdupCrtinvoicebarcode.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.RPtpurchase.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.Rptrepairwithoutbill.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.rptrepJob.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.Rrptbranchorder.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.Rrptrectvoucher.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.Form1.resources
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.Resources.resources
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.exe.manifest
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.application
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.Copy of RCrtinvoicePrint.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.CrtinvoiceA4_1.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.crtapprovalstock.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.CrtinvoiceA4_dup1.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.Crtinvoice_3.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.Copy of CrtinvoiceA4_dup.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.Copy of CrtinvoicedeliveryA4_Dup.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.Copy of RCrtinvoicePrint.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.CRTapprovalPrint.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.crtapprovalstock.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.Crtdeliverybill.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.Crtdupinvoicebarcode_order.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.crtinsurance.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.CrtinvoiceA4.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.CrtinvoiceA4_1.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.CrtinvoiceA4_dup.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.CrtinvoiceA4_dup1.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.Crtinvoicebarcode_image.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.Crtinvoicebarcode_order.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.CrtinvoicedeliveryA4.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.CrtinvoicedeliveryA4_Dup.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.CrtinvoicePrint_mrp.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.Crtinvoice_1.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.Crtinvoice_2.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.crtmetalstock.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.crtmetalstockprint.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.CrtpaymentvocucherPrint.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.crtpurchase.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.CRTrepairINV.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.crtrepairPrint.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.crtreport.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.crtsalesreturnprint.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.crtschemeadjustmentslip.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.CrtschemeAdjustment_Print.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.duprajRptOrdernew.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.invoice_landscape_1.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.invoice_landscape_2.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.invoice_landscape_3.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.rajRptOrdernew.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.rajRptOrdernewP.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.rCrtinvoicebarcode.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.RCrtinvoicePrint.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.rdupCrtinvoicebarcode.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.RPtpurchase.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.Rptrepairwithoutbill.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.rptrepJob.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.Rrptbranchorder.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.Rrptrectvoucher.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.rptJobCard_image.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.rptJobCard_OF.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.Form1.resources
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Release\invoice.invoice.Resources.resources
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\bin\Debug\invoice.exe.manifest
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\bin\Debug\invoice.application
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\bin\Debug\invoice.exe
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\bin\Debug\invoice.pdb
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\bin\Debug\invoice.xml
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\ResolveAssemblyReference.cache
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.CrtinvoiceA4_dup.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.crtapprovalstock.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.CrtinvoiceA4.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.Copy of RCrtinvoicePrint.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.CRTapprovalPrint.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.crtinsurance.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.CrtinvoicedeliveryA4_Dup.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.Copy of CrtinvoicedeliveryA4_Dup.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.CrtinvoiceA4_dup1.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.Copy of CrtinvoiceA4_dup.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.CrtinvoicePrint_mrp.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.Crtinvoice_3.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.crtmetalstock.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.crtmetalstockprint.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.CrtpaymentvocucherPrint.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.crtpurchase.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.crtsalesreturnprint.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.duprajRptOrdernew.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.CrtinvoicedeliveryA4.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.CrtinvoiceA4_1.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.invoice_landscape_1.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.invoice_landscape_2.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.invoice_landscape_3.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.rCrtinvoicebarcode.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.Crtdeliverybill.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.Crtdupinvoicebarcode_order.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.Crtinvoicebarcode_order.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.Crtinvoice_2.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.Crtinvoice_1.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.CRTrepairINV.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.crtrepairPrint.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.crtreport.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.crtschemeadjustmentslip.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.CrtschemeAdjustment_Print.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.rajRptOrdernew.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.rajRptOrdernewP.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.Crtinvoicebarcode_image.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.RCrtinvoicePrint.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.rdupCrtinvoicebarcode.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.rptJobCard_image.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.rptJobCard_OF.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.RPtpurchase.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.Rptrepairwithoutbill.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.rptrepJob.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.Rrptbranchorder.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.Rrptrectvoucher.rpt
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.Form1.resources
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.Resources.resources
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.vbproj.GenerateResource.Cache
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.exe.manifest
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.application
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.exe
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.xml
+D:\OFFICE\Invoice\Bohra Jewellers\invoice\obj\Debug\invoice.pdb
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Debug\invoice.exe
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Debug\invoice.xml
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Debug\invoice.pdb
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\bin\Release\invoice.exe.manifest
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\bin\Release\invoice.application
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\bin\Release\invoice.exe
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\bin\Release\invoice.pdb
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\bin\Release\invoice.xml
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\ResolveAssemblyReference.cache
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.CrtinvoiceA4_dup.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.crtapprovalstock.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.CrtinvoiceA4.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.Copy of RCrtinvoicePrint.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.CRTapprovalPrint.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.crtinsurance.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.CrtinvoicedeliveryA4_Dup.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.Copy of CrtinvoicedeliveryA4_Dup.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.CrtinvoiceA4_dup1.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.Copy of CrtinvoiceA4_dup.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.CrtinvoicePrint_mrp.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.Crtinvoice_3.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.crtmetalstock.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.crtmetalstockprint.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.CrtpaymentvocucherPrint.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.crtpurchase.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.crtsalesreturnprint.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.duprajRptOrdernew.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.CrtinvoicedeliveryA4.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.CrtinvoiceA4_1.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.invoice_landscape_1.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.invoice_landscape_2.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.invoice_landscape_3.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.rCrtinvoicebarcode.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.Crtdeliverybill.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.Crtdupinvoicebarcode_order.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.Crtinvoicebarcode_order.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.Crtinvoice_2.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.Crtinvoice_1.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.CRTrepairINV.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.crtrepairPrint.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.crtreport.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.crtschemeadjustmentslip.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.CrtschemeAdjustment_Print.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.rajRptOrdernew.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.rajRptOrdernewP.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.Crtinvoicebarcode_image.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.RCrtinvoicePrint.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.rdupCrtinvoicebarcode.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.rptJobCard_image.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.rptJobCard_OF.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.RPtpurchase.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.Rptrepairwithoutbill.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.rptrepJob.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.Rrptbranchorder.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.Rrptrectvoucher.rpt
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.Form1.resources
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.Resources.resources
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.exe.manifest
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.application
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.exe
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.xml
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.pdb
+C:\passion\Invoice\BOHRA\Bohra Jewellers\invoice\obj\Release\invoice.crtdynamicreport.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.exe
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.xml
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.pdb
+C:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\invoice.exe.manifest
+C:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\invoice.application
+C:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\invoice.exe
+C:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\invoice.pdb
+C:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\invoice.xml
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\ResolveAssemblyReference.cache
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.crtdynamicreport.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.CrtinvoiceA4_dup.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.crtapprovalstock.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.CrtinvoiceA4.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.Copy of RCrtinvoicePrint.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.CRTapprovalPrint.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.crtinsurance.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.CrtinvoicedeliveryA4_Dup.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.Copy of CrtinvoicedeliveryA4_Dup.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.CrtinvoiceA4_dup1.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.Copy of CrtinvoiceA4_dup.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.CrtinvoicePrint_mrp.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.Crtinvoice_3.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.crtmetalstock.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.crtmetalstockprint.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.CrtpaymentvocucherPrint.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.crtpurchase.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.crtsalesreturnprint.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.duprajRptOrdernew.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.CrtinvoicedeliveryA4.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.CrtinvoiceA4_1.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.invoice_landscape_1.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.invoice_landscape_2.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.invoice_landscape_3.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.rCrtinvoicebarcode.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.Crtdeliverybill.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.Crtdupinvoicebarcode_order.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.Crtinvoicebarcode_order.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.Crtinvoice_2.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.Crtinvoice_1.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.CRTrepairINV.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.crtrepairPrint.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.crtreport.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.crtschemeadjustmentslip.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.CrtschemeAdjustment_Print.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.rajRptOrdernew.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.rajRptOrdernewP.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.Crtinvoicebarcode_image.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.RCrtinvoicePrint.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.rdupCrtinvoicebarcode.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.rptJobCard_image.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.rptJobCard_OF.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.RPtpurchase.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.Rptrepairwithoutbill.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.rptrepJob.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.Rrptbranchorder.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.Rrptrectvoucher.rpt
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.Form1.resources
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.Resources.resources
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.exe.manifest
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.application

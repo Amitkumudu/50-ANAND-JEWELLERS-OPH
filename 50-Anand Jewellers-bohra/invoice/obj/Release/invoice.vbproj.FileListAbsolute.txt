@@ -1,0 +1,396 @@
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.exe
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.xml
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.pdb
+C:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\invoice.exe.manifest
+C:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\invoice.application
+C:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\invoice.exe
+C:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\invoice.pdb
+C:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\invoice.xml
+C:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+C:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.Shared.dll
+C:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\FlashControlV71.dll
+C:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\stdole.dll
+C:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\ShockwaveFlashObjects.dll
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.Form1.resources
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.Resources.resources
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.exe.manifest
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.application
+E:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.exe
+E:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.xml
+E:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.pdb
+E:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\invoice.exe.manifest
+E:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\invoice.application
+E:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\invoice.exe
+E:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\invoice.pdb
+E:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\invoice.xml
+E:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+E:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+E:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.Shared.dll
+E:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+E:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\FlashControlV71.dll
+E:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\stdole.dll
+E:\passion\Invoice\anand\Anand Jewellers\invoice\bin\Release\ShockwaveFlashObjects.dll
+E:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.Form1.resources
+E:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.Resources.resources
+E:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+E:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.exe.manifest
+E:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.application
+E:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.vbprojResolveAssemblyReference.cache
+D:\JM916\INVOICES AFTER GST ROLLOUT\anand\Anand Jewellers\invoice\bin\Release\invoice.exe.manifest
+D:\JM916\INVOICES AFTER GST ROLLOUT\anand\Anand Jewellers\invoice\bin\Release\invoice.application
+D:\JM916\INVOICES AFTER GST ROLLOUT\anand\Anand Jewellers\invoice\bin\Release\invoice.exe
+D:\JM916\INVOICES AFTER GST ROLLOUT\anand\Anand Jewellers\invoice\bin\Release\invoice.pdb
+D:\JM916\INVOICES AFTER GST ROLLOUT\anand\Anand Jewellers\invoice\bin\Release\invoice.xml
+D:\JM916\INVOICES AFTER GST ROLLOUT\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\JM916\INVOICES AFTER GST ROLLOUT\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+D:\JM916\INVOICES AFTER GST ROLLOUT\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.Shared.dll
+D:\JM916\INVOICES AFTER GST ROLLOUT\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+D:\JM916\INVOICES AFTER GST ROLLOUT\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\JM916\INVOICES AFTER GST ROLLOUT\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\JM916\INVOICES AFTER GST ROLLOUT\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\JM916\INVOICES AFTER GST ROLLOUT\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\JM916\INVOICES AFTER GST ROLLOUT\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\JM916\INVOICES AFTER GST ROLLOUT\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\JM916\INVOICES AFTER GST ROLLOUT\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\JM916\INVOICES AFTER GST ROLLOUT\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\JM916\INVOICES AFTER GST ROLLOUT\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\JM916\INVOICES AFTER GST ROLLOUT\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\JM916\INVOICES AFTER GST ROLLOUT\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\JM916\INVOICES AFTER GST ROLLOUT\anand\Anand Jewellers\invoice\bin\Release\FlashControlV71.dll
+D:\JM916\INVOICES AFTER GST ROLLOUT\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\JM916\INVOICES AFTER GST ROLLOUT\anand\Anand Jewellers\invoice\bin\Release\stdole.dll
+D:\JM916\INVOICES AFTER GST ROLLOUT\anand\Anand Jewellers\invoice\bin\Release\ShockwaveFlashObjects.dll
+D:\JM916\INVOICES AFTER GST ROLLOUT\anand\Anand Jewellers\invoice\obj\Release\invoice.Form1.resources
+D:\JM916\INVOICES AFTER GST ROLLOUT\anand\Anand Jewellers\invoice\obj\Release\invoice.Resources.resources
+D:\JM916\INVOICES AFTER GST ROLLOUT\anand\Anand Jewellers\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+D:\JM916\INVOICES AFTER GST ROLLOUT\anand\Anand Jewellers\invoice\obj\Release\invoice.exe.manifest
+D:\JM916\INVOICES AFTER GST ROLLOUT\anand\Anand Jewellers\invoice\obj\Release\invoice.application
+D:\JM916\INVOICES AFTER GST ROLLOUT\anand\Anand Jewellers\invoice\obj\Release\invoice.exe
+D:\JM916\INVOICES AFTER GST ROLLOUT\anand\Anand Jewellers\invoice\obj\Release\invoice.xml
+D:\JM916\INVOICES AFTER GST ROLLOUT\anand\Anand Jewellers\invoice\obj\Release\invoice.pdb
+D:\JM916\INVOICES AFTER GST ROLLOUT\anand\Anand Jewellers\invoice\obj\Release\invoice.vbprojResolveAssemblyReference.cache
+C:\passion\Invoice\anand\Anand Jewellers\invoice\obj\Release\invoice.vbprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\anand\Anand Jewellers\invoice\obj\Release\invoice.exe
+C:\Users\User\Desktop\anand\Anand Jewellers\invoice\obj\Release\invoice.xml
+C:\Users\User\Desktop\anand\Anand Jewellers\invoice\obj\Release\invoice.pdb
+C:\Users\User\Desktop\anand\Anand Jewellers\invoice\bin\Release\invoice.exe.manifest
+C:\Users\User\Desktop\anand\Anand Jewellers\invoice\bin\Release\invoice.application
+C:\Users\User\Desktop\anand\Anand Jewellers\invoice\bin\Release\invoice.exe
+C:\Users\User\Desktop\anand\Anand Jewellers\invoice\bin\Release\invoice.pdb
+C:\Users\User\Desktop\anand\Anand Jewellers\invoice\bin\Release\invoice.xml
+C:\Users\User\Desktop\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\User\Desktop\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\User\Desktop\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\User\Desktop\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\User\Desktop\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\User\Desktop\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\User\Desktop\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\User\Desktop\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\User\Desktop\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\User\Desktop\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\User\Desktop\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\User\Desktop\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\User\Desktop\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\User\Desktop\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\User\Desktop\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\User\Desktop\anand\Anand Jewellers\invoice\bin\Release\FlashControlV71.dll
+C:\Users\User\Desktop\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\User\Desktop\anand\Anand Jewellers\invoice\bin\Release\stdole.dll
+C:\Users\User\Desktop\anand\Anand Jewellers\invoice\bin\Release\ShockwaveFlashObjects.dll
+C:\Users\User\Desktop\anand\Anand Jewellers\invoice\obj\Release\invoice.vbprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\anand\Anand Jewellers\invoice\obj\Release\invoice.Form1.resources
+C:\Users\User\Desktop\anand\Anand Jewellers\invoice\obj\Release\invoice.Resources.resources
+C:\Users\User\Desktop\anand\Anand Jewellers\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\anand\Anand Jewellers\invoice\obj\Release\invoice.exe.manifest
+C:\Users\User\Desktop\anand\Anand Jewellers\invoice\obj\Release\invoice.application
+\\DELL\sahana\sahanatodaysinvoice\anand\Anand Jewellers\invoice\obj\Release\invoice.exe
+\\DELL\sahana\sahanatodaysinvoice\anand\Anand Jewellers\invoice\obj\Release\invoice.xml
+\\DELL\sahana\sahanatodaysinvoice\anand\Anand Jewellers\invoice\obj\Release\invoice.pdb
+\\DELL\sahana\sahanatodaysinvoice\anand\Anand Jewellers\invoice\bin\Release\invoice.exe.manifest
+\\DELL\sahana\sahanatodaysinvoice\anand\Anand Jewellers\invoice\bin\Release\invoice.application
+\\DELL\sahana\sahanatodaysinvoice\anand\Anand Jewellers\invoice\bin\Release\invoice.exe
+\\DELL\sahana\sahanatodaysinvoice\anand\Anand Jewellers\invoice\bin\Release\invoice.pdb
+\\DELL\sahana\sahanatodaysinvoice\anand\Anand Jewellers\invoice\bin\Release\invoice.xml
+\\DELL\sahana\sahanatodaysinvoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+\\DELL\sahana\sahanatodaysinvoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+\\DELL\sahana\sahanatodaysinvoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.Shared.dll
+\\DELL\sahana\sahanatodaysinvoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+\\DELL\sahana\sahanatodaysinvoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+\\DELL\sahana\sahanatodaysinvoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+\\DELL\sahana\sahanatodaysinvoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+\\DELL\sahana\sahanatodaysinvoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+\\DELL\sahana\sahanatodaysinvoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+\\DELL\sahana\sahanatodaysinvoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+\\DELL\sahana\sahanatodaysinvoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+\\DELL\sahana\sahanatodaysinvoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+\\DELL\sahana\sahanatodaysinvoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+\\DELL\sahana\sahanatodaysinvoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+\\DELL\sahana\sahanatodaysinvoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+\\DELL\sahana\sahanatodaysinvoice\anand\Anand Jewellers\invoice\bin\Release\FlashControlV71.dll
+\\DELL\sahana\sahanatodaysinvoice\anand\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+\\DELL\sahana\sahanatodaysinvoice\anand\Anand Jewellers\invoice\bin\Release\stdole.dll
+\\DELL\sahana\sahanatodaysinvoice\anand\Anand Jewellers\invoice\bin\Release\ShockwaveFlashObjects.dll
+\\DELL\sahana\sahanatodaysinvoice\anand\Anand Jewellers\invoice\obj\Release\invoice.vbprojResolveAssemblyReference.cache
+\\DELL\sahana\sahanatodaysinvoice\anand\Anand Jewellers\invoice\obj\Release\invoice.Form1.resources
+\\DELL\sahana\sahanatodaysinvoice\anand\Anand Jewellers\invoice\obj\Release\invoice.Resources.resources
+\\DELL\sahana\sahanatodaysinvoice\anand\Anand Jewellers\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+\\DELL\sahana\sahanatodaysinvoice\anand\Anand Jewellers\invoice\obj\Release\invoice.exe.manifest
+\\DELL\sahana\sahanatodaysinvoice\anand\Anand Jewellers\invoice\obj\Release\invoice.application
+E:\asterix files\NEW invoice\Anand Jewellers\invoice\obj\Release\invoice.exe
+E:\asterix files\NEW invoice\Anand Jewellers\invoice\obj\Release\invoice.xml
+E:\asterix files\NEW invoice\Anand Jewellers\invoice\obj\Release\invoice.pdb
+E:\asterix files\NEW invoice\Anand Jewellers\invoice\bin\Release\invoice.exe.manifest
+E:\asterix files\NEW invoice\Anand Jewellers\invoice\bin\Release\invoice.application
+E:\asterix files\NEW invoice\Anand Jewellers\invoice\bin\Release\invoice.exe
+E:\asterix files\NEW invoice\Anand Jewellers\invoice\bin\Release\invoice.pdb
+E:\asterix files\NEW invoice\Anand Jewellers\invoice\bin\Release\invoice.xml
+E:\asterix files\NEW invoice\Anand Jewellers\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+E:\asterix files\NEW invoice\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+E:\asterix files\NEW invoice\Anand Jewellers\invoice\bin\Release\CrystalDecisions.Shared.dll
+E:\asterix files\NEW invoice\Anand Jewellers\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+E:\asterix files\NEW invoice\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\asterix files\NEW invoice\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\asterix files\NEW invoice\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\asterix files\NEW invoice\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\asterix files\NEW invoice\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\asterix files\NEW invoice\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\asterix files\NEW invoice\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\asterix files\NEW invoice\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\asterix files\NEW invoice\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\asterix files\NEW invoice\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\asterix files\NEW invoice\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\asterix files\NEW invoice\Anand Jewellers\invoice\bin\Release\FlashControlV71.dll
+E:\asterix files\NEW invoice\Anand Jewellers\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\asterix files\NEW invoice\Anand Jewellers\invoice\bin\Release\stdole.dll
+E:\asterix files\NEW invoice\Anand Jewellers\invoice\bin\Release\ShockwaveFlashObjects.dll
+E:\asterix files\NEW invoice\Anand Jewellers\invoice\obj\Release\invoice.Form1.resources
+E:\asterix files\NEW invoice\Anand Jewellers\invoice\obj\Release\invoice.Resources.resources
+E:\asterix files\NEW invoice\Anand Jewellers\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+E:\asterix files\NEW invoice\Anand Jewellers\invoice\obj\Release\invoice.exe.manifest
+E:\asterix files\NEW invoice\Anand Jewellers\invoice\obj\Release\invoice.application
+E:\asterix files\NEW invoice\Anand Jewellers\invoice\obj\Release\invoice.vbprojResolveAssemblyReference.cache
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Anand Jewellers-bohra\invoice\obj\Release\invoice.exe
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Anand Jewellers-bohra\invoice\obj\Release\invoice.xml
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Anand Jewellers-bohra\invoice\obj\Release\invoice.pdb
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\invoice.exe.manifest
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\invoice.application
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\invoice.exe
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\invoice.pdb
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\invoice.xml
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.Shared.dll
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\FlashControlV71.dll
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\stdole.dll
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\ShockwaveFlashObjects.dll
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Anand Jewellers-bohra\invoice\obj\Release\invoice.vbprojResolveAssemblyReference.cache
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Anand Jewellers-bohra\invoice\obj\Release\invoice.Form1.resources
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Anand Jewellers-bohra\invoice\obj\Release\invoice.Resources.resources
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Anand Jewellers-bohra\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Anand Jewellers-bohra\invoice\obj\Release\invoice.exe.manifest
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Anand Jewellers-bohra\invoice\obj\Release\invoice.application
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Anand Jewellers-bohra\invoice\obj\Release\invoice.exe
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Anand Jewellers-bohra\invoice\obj\Release\invoice.xml
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Anand Jewellers-bohra\invoice\obj\Release\invoice.pdb
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\invoice.exe.manifest
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\invoice.application
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\invoice.exe
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\invoice.pdb
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\invoice.xml
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.Shared.dll
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\FlashControlV71.dll
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\stdole.dll
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Anand Jewellers-bohra\invoice\bin\Release\ShockwaveFlashObjects.dll
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Anand Jewellers-bohra\invoice\obj\Release\invoice.Form1.resources
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Anand Jewellers-bohra\invoice\obj\Release\invoice.Resources.resources
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Anand Jewellers-bohra\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Anand Jewellers-bohra\invoice\obj\Release\invoice.exe.manifest
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Anand Jewellers-bohra\invoice\obj\Release\invoice.application
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\obj\Release\invoice.exe
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\obj\Release\invoice.xml
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\obj\Release\invoice.pdb
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\invoice.exe.manifest
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\invoice.application
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\invoice.exe
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\invoice.pdb
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\invoice.xml
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.Shared.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\FlashControlV71.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\stdole.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\ShockwaveFlashObjects.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\obj\Release\invoice.Form1.resources
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\obj\Release\invoice.Resources.resources
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\obj\Release\invoice.exe.manifest
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\obj\Release\invoice.application
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\obj\Release\invoice.exe
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\obj\Release\invoice.xml
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\obj\Release\invoice.pdb
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\invoice.exe.manifest
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\invoice.application
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\invoice.exe
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\invoice.pdb
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\invoice.xml
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.Shared.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\FlashControlV71.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\stdole.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\bin\Release\ShockwaveFlashObjects.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\obj\Release\invoice.Form1.resources
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\obj\Release\invoice.Resources.resources
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\obj\Release\invoice.exe.manifest
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\obj\Release\invoice.application
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Anand Jewellers-bohra\invoice\obj\Release\invoice.vbprojResolveAssemblyReference.cache
+H:\NEW INVOICES\NEW INVOICES\50-Anand Jewellers-bohra\invoice\bin\Release\invoice.exe.manifest
+H:\NEW INVOICES\NEW INVOICES\50-Anand Jewellers-bohra\invoice\bin\Release\invoice.application
+H:\NEW INVOICES\NEW INVOICES\50-Anand Jewellers-bohra\invoice\bin\Release\invoice.exe
+H:\NEW INVOICES\NEW INVOICES\50-Anand Jewellers-bohra\invoice\bin\Release\invoice.pdb
+H:\NEW INVOICES\NEW INVOICES\50-Anand Jewellers-bohra\invoice\bin\Release\invoice.xml
+H:\NEW INVOICES\NEW INVOICES\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+H:\NEW INVOICES\NEW INVOICES\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+H:\NEW INVOICES\NEW INVOICES\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.Shared.dll
+H:\NEW INVOICES\NEW INVOICES\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+H:\NEW INVOICES\NEW INVOICES\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+H:\NEW INVOICES\NEW INVOICES\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+H:\NEW INVOICES\NEW INVOICES\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+H:\NEW INVOICES\NEW INVOICES\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+H:\NEW INVOICES\NEW INVOICES\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+H:\NEW INVOICES\NEW INVOICES\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+H:\NEW INVOICES\NEW INVOICES\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+H:\NEW INVOICES\NEW INVOICES\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+H:\NEW INVOICES\NEW INVOICES\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+H:\NEW INVOICES\NEW INVOICES\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+H:\NEW INVOICES\NEW INVOICES\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+H:\NEW INVOICES\NEW INVOICES\50-Anand Jewellers-bohra\invoice\bin\Release\FlashControlV71.dll
+H:\NEW INVOICES\NEW INVOICES\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+H:\NEW INVOICES\NEW INVOICES\50-Anand Jewellers-bohra\invoice\bin\Release\stdole.dll
+H:\NEW INVOICES\NEW INVOICES\50-Anand Jewellers-bohra\invoice\bin\Release\ShockwaveFlashObjects.dll
+H:\NEW INVOICES\NEW INVOICES\50-Anand Jewellers-bohra\invoice\obj\Release\invoice.Form1.resources
+H:\NEW INVOICES\NEW INVOICES\50-Anand Jewellers-bohra\invoice\obj\Release\invoice.Resources.resources
+H:\NEW INVOICES\NEW INVOICES\50-Anand Jewellers-bohra\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+H:\NEW INVOICES\NEW INVOICES\50-Anand Jewellers-bohra\invoice\obj\Release\invoice.exe.manifest
+H:\NEW INVOICES\NEW INVOICES\50-Anand Jewellers-bohra\invoice\obj\Release\invoice.application
+H:\NEW INVOICES\NEW INVOICES\50-Anand Jewellers-bohra\invoice\obj\Release\invoice.exe
+H:\NEW INVOICES\NEW INVOICES\50-Anand Jewellers-bohra\invoice\obj\Release\invoice.xml
+H:\NEW INVOICES\NEW INVOICES\50-Anand Jewellers-bohra\invoice\obj\Release\invoice.pdb
+H:\NEW INVOICES\NEW INVOICES\50-Anand Jewellers-bohra\invoice\obj\Release\invoice.vbprojResolveAssemblyReference.cache
+C:\Users\shree\OneDrive\Desktop\Kumudu\2025_cust_inv_changes\50-Anand Jewellers-bohra\invoice\bin\Release\invoice.exe.manifest
+C:\Users\shree\OneDrive\Desktop\Kumudu\2025_cust_inv_changes\50-Anand Jewellers-bohra\invoice\bin\Release\invoice.application
+C:\Users\shree\OneDrive\Desktop\Kumudu\2025_cust_inv_changes\50-Anand Jewellers-bohra\invoice\bin\Release\invoice.exe
+C:\Users\shree\OneDrive\Desktop\Kumudu\2025_cust_inv_changes\50-Anand Jewellers-bohra\invoice\bin\Release\invoice.pdb
+C:\Users\shree\OneDrive\Desktop\Kumudu\2025_cust_inv_changes\50-Anand Jewellers-bohra\invoice\bin\Release\invoice.xml
+C:\Users\shree\OneDrive\Desktop\Kumudu\2025_cust_inv_changes\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\shree\OneDrive\Desktop\Kumudu\2025_cust_inv_changes\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\shree\OneDrive\Desktop\Kumudu\2025_cust_inv_changes\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\shree\OneDrive\Desktop\Kumudu\2025_cust_inv_changes\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\shree\OneDrive\Desktop\Kumudu\2025_cust_inv_changes\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\shree\OneDrive\Desktop\Kumudu\2025_cust_inv_changes\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\shree\OneDrive\Desktop\Kumudu\2025_cust_inv_changes\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\shree\OneDrive\Desktop\Kumudu\2025_cust_inv_changes\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\shree\OneDrive\Desktop\Kumudu\2025_cust_inv_changes\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\shree\OneDrive\Desktop\Kumudu\2025_cust_inv_changes\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\shree\OneDrive\Desktop\Kumudu\2025_cust_inv_changes\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\shree\OneDrive\Desktop\Kumudu\2025_cust_inv_changes\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\shree\OneDrive\Desktop\Kumudu\2025_cust_inv_changes\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\shree\OneDrive\Desktop\Kumudu\2025_cust_inv_changes\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\shree\OneDrive\Desktop\Kumudu\2025_cust_inv_changes\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\shree\OneDrive\Desktop\Kumudu\2025_cust_inv_changes\50-Anand Jewellers-bohra\invoice\bin\Release\FlashControlV71.dll
+C:\Users\shree\OneDrive\Desktop\Kumudu\2025_cust_inv_changes\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\shree\OneDrive\Desktop\Kumudu\2025_cust_inv_changes\50-Anand Jewellers-bohra\invoice\bin\Release\stdole.dll
+C:\Users\shree\OneDrive\Desktop\Kumudu\2025_cust_inv_changes\50-Anand Jewellers-bohra\invoice\bin\Release\ShockwaveFlashObjects.dll
+C:\Users\shree\OneDrive\Desktop\Kumudu\2025_cust_inv_changes\50-Anand Jewellers-bohra\invoice\obj\Release\invoice.Form1.resources
+C:\Users\shree\OneDrive\Desktop\Kumudu\2025_cust_inv_changes\50-Anand Jewellers-bohra\invoice\obj\Release\invoice.Resources.resources
+C:\Users\shree\OneDrive\Desktop\Kumudu\2025_cust_inv_changes\50-Anand Jewellers-bohra\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+C:\Users\shree\OneDrive\Desktop\Kumudu\2025_cust_inv_changes\50-Anand Jewellers-bohra\invoice\obj\Release\invoice.exe.manifest
+C:\Users\shree\OneDrive\Desktop\Kumudu\2025_cust_inv_changes\50-Anand Jewellers-bohra\invoice\obj\Release\invoice.application
+C:\Users\shree\OneDrive\Desktop\Kumudu\2025_cust_inv_changes\50-Anand Jewellers-bohra\invoice\obj\Release\invoice.exe
+C:\Users\shree\OneDrive\Desktop\Kumudu\2025_cust_inv_changes\50-Anand Jewellers-bohra\invoice\obj\Release\invoice.xml
+C:\Users\shree\OneDrive\Desktop\Kumudu\2025_cust_inv_changes\50-Anand Jewellers-bohra\invoice\obj\Release\invoice.pdb
+A:\Customer invoice Formate_1 to 100\50-Anand Jewellers-bohra\invoice\obj\Release\invoice.exe
+A:\Customer invoice Formate_1 to 100\50-Anand Jewellers-bohra\invoice\obj\Release\invoice.xml
+A:\Customer invoice Formate_1 to 100\50-Anand Jewellers-bohra\invoice\obj\Release\invoice.pdb
