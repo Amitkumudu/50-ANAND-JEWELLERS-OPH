@@ -394,3 +394,36 @@ C:\Users\shree\OneDrive\Desktop\Kumudu\2025_cust_inv_changes\50-Anand Jewellers-
 A:\Customer invoice Formate_1 to 100\50-Anand Jewellers-bohra\invoice\obj\Release\invoice.exe
 A:\Customer invoice Formate_1 to 100\50-Anand Jewellers-bohra\invoice\obj\Release\invoice.xml
 A:\Customer invoice Formate_1 to 100\50-Anand Jewellers-bohra\invoice\obj\Release\invoice.pdb
+A:\Customer invoice Formate_1 to 100\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\invoice\bin\Release\invoice.exe.manifest
+A:\Customer invoice Formate_1 to 100\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\invoice\bin\Release\invoice.application
+A:\Customer invoice Formate_1 to 100\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\invoice\bin\Release\invoice.exe
+A:\Customer invoice Formate_1 to 100\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\invoice\bin\Release\invoice.pdb
+A:\Customer invoice Formate_1 to 100\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\invoice\bin\Release\invoice.xml
+A:\Customer invoice Formate_1 to 100\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+A:\Customer invoice Formate_1 to 100\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+A:\Customer invoice Formate_1 to 100\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.Shared.dll
+A:\Customer invoice Formate_1 to 100\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+A:\Customer invoice Formate_1 to 100\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+A:\Customer invoice Formate_1 to 100\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+A:\Customer invoice Formate_1 to 100\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+A:\Customer invoice Formate_1 to 100\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+A:\Customer invoice Formate_1 to 100\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+A:\Customer invoice Formate_1 to 100\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+A:\Customer invoice Formate_1 to 100\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+A:\Customer invoice Formate_1 to 100\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+A:\Customer invoice Formate_1 to 100\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+A:\Customer invoice Formate_1 to 100\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+A:\Customer invoice Formate_1 to 100\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+A:\Customer invoice Formate_1 to 100\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\invoice\bin\Release\FlashControlV71.dll
+A:\Customer invoice Formate_1 to 100\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+A:\Customer invoice Formate_1 to 100\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\invoice\bin\Release\stdole.dll
+A:\Customer invoice Formate_1 to 100\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\invoice\bin\Release\ShockwaveFlashObjects.dll
+A:\Customer invoice Formate_1 to 100\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\invoice\obj\Release\invoice.Form1.resources
+A:\Customer invoice Formate_1 to 100\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\invoice\obj\Release\invoice.Resources.resources
+A:\Customer invoice Formate_1 to 100\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+A:\Customer invoice Formate_1 to 100\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\invoice\obj\Release\invoice.exe.manifest
+A:\Customer invoice Formate_1 to 100\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\invoice\obj\Release\invoice.application
+A:\Customer invoice Formate_1 to 100\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\invoice\obj\Release\invoice.exe
+A:\Customer invoice Formate_1 to 100\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\invoice\obj\Release\invoice.xml
+A:\Customer invoice Formate_1 to 100\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\invoice\obj\Release\invoice.pdb
+A:\Customer invoice Formate_1 to 100\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\50-Anand Jewellers-bohra\invoice\obj\Release\invoice.vbprojResolveAssemblyReference.cache
